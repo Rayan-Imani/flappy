@@ -1,0 +1,2 @@
+Flappy Bird with NEAT Algorithm
+This project involves the creation of the classic Flappy Bird game using Pygame, enhanced with pixel-perfect collision detection and mask handling. Additionally, the project implements a machine learning model using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm to train a neural network that plays Flappy Bird autonomously, aiming to achieve a perfect run.
